@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "akivsolomon",
+    "password": "password",
+    "database": "urlshortener_development",
+    "host": "localhost",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
